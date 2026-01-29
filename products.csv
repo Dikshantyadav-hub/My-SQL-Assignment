@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_qty,supplier_id
+1,iPhone 15,Electronics,79999,50,1
+2,Samsung Galaxy S24,Electronics,74999,40,2
+3,Noise Smartwatch,Wearables,4999,100,3
+4,Boat Earbuds,Wearables,2499,200,4
+5,Kurta Set,Fashion,1999,150,7
+6,Running Shoes,Fashion,2999,120,7
+7,Prestige Mixer Grinder,Home Appliances,6499,80,5
+8,Sony Bravia 55” TV,Electronics,59999,30,6
+9,Lenovo Laptop,Electronics,55999,45,2
+10,Philips Trimmer,Personal Care,1499,90,8

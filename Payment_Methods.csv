@@ -1,0 +1,8 @@
+payment_id,payment_type
+1,UPI
+2,Credit Card
+3,Debit Card
+4,Net Banking
+5,Cash
+6,Wallet
+7,EMI
